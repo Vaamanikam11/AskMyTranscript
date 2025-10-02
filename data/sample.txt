@@ -1,0 +1,4 @@
+Alice: Welcome to the meeting. Today we’ll discuss project deadlines.  
+Bob: I think the cloud migration will finish by October.  
+Charlie: Security reviews are pending.  
+Alice: Let’s also plan for the client presentation next week.  
