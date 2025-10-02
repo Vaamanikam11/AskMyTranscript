@@ -13,13 +13,3 @@ It runs **fully offline** using:
  **Secure and private** (ideal for finance, healthcare, and research)  
  **Lightweight** and runs on your laptop  
 
-AskMyTranscript/
-│── app.py # Streamlit app (UI)
-│── requirements.txt # Dependencies
-│── .gitignore
-│── LICENSE
-│── README.md
-│── data/ # Folder to store transcript .txt files
-│── src/
-│ ├── embed_store.py # Creates embeddings and stores in Chroma
-│ └── query_engine.py # Retrieves relevant chunks & queries LLM
